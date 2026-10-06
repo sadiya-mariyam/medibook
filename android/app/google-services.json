@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954348428073",
+    "project_id": "medibook-106b1",
+    "storage_bucket": "medibook-106b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954348428073:android:85c268ffd62265c583b538",
+        "android_client_info": {
+          "package_name": "com.example.medibook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sb4orcQ5eSJbQ06rWtLxJ7BUNEbSGsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
